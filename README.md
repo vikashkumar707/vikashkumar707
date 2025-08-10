@@ -71,10 +71,10 @@ Currently pursuing my **Master’s in High Performance Computing & Quantum Compu
 ---
 
 ## 🐍 Contribution Snake
-
 <p align="center">
-<img src="https://github.com/vikashkumar707/vikashkumar707/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/vikashkumar707/vikashkumar707/output/snake.svg" alt="Snake animation" />
 </p>
+
 
 ---
 
