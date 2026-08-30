@@ -5,7 +5,7 @@
 🚀 **DevOps Engineer | SRE Intern | MSc in HPC & Quantum Computing**  
 📍 Cologne, North Rhine-Westphalia, Germany  
 
-I am a DevOps Engineer with **2 years of experience** automating and optimizing deployments in **AWS, Azure, and GCP**.  
+I am a DevOps Engineer with **3 years of experience** automating and optimizing deployments in **AWS, Azure, and GCP**.  
 Skilled in **CI/CD, Docker, Kubernetes, Terraform, and Monitoring Tools**, with a proven track record of **reducing deployment times** and **enhancing system reliability**.  
 Currently pursuing my **Master’s in High Performance Computing & Quantum Computing** at *Deggendorf Institute of Technology, Germany*.  
 
@@ -21,23 +21,48 @@ Currently pursuing my **Master’s in High Performance Computing & Quantum Compu
 
 ## 📌 Professional Experience
 
-### **SRE Intern – SIG Group** *(Aug 2025 – Present)*  
-- Analyzing machine performance & reliability data  
-- Automating data extraction & processing using Python  
-- Creating & monitoring real-time dashboards  
-- Supporting global reliability reports for operations  
+### **DevOps Engineer – Infineon Technologies** *(Jan 2025 – Present)*  
+- Optimized CI/CD and engineering workflows to improve deployment efficiency, system-level testing, and
+platform reliability 
+- Designed and maintained GitLab CI/CD and release-management workflows supporting engineering software development and delivery
+- Implemented Infrastructure as Code to standardize and automate infrastructure provisioning and deployment activities
+- Collaborated with engineering teams to troubleshoot pipeline and deployment issues and improve operational reliability
+- Worked with Docker and Kubernetes to support containerized workloads and production-like deployment
+environments 
+
+### **SRE Intern – SIG Group** *(Aug 2025 – Jan 2026)*  
+- Analyzing machine performance & reliability data
+- Automated machine and operational data processing using Python and Pandas, reducing manual reporting effort by approximately 60%
+- Developed structured automation workflows for uptime, MTBF, failure-rate, and reliability analysis
+- Implemented scheduled Linux-based automation for periodic data-processing and reporting workflows
+- Built Power BI dashboards for operational monitoring, reliability analysis, and production performance
+reporting 
 
 ### **DevOps Engineer – Aviox Technologies** *(Sep 2024 – Feb 2025)*  
-- Delivered **cloud-native infrastructure** on AWS & Azure  
-- Improved deployment pipelines and monitoring systems  
+- Automated deployment workflows to reduce manual operational effort and improve release reliability
+- Built and maintained Docker-based container environments for development and production workloads
+- Collaborated with development teams to troubleshoot CI/CD failures and improve software release processes
+- Implemented Infrastructure as Code using Terraform to standardize and version cloud infrastructure
+provisioning
 
 ### **DevOps Engineer I – cloudEQ** *(Jan 2023 – Aug 2024)*  
-- Managed **multi-region cloud deployments**  
-- Automated IaC using Terraform & Ansible  
-- Built CI/CD pipelines to accelerate release cycles  
+- Designed and maintained CI/CD pipelines for Java-based applications using Gradle, GitHub Actions,
+and Jenkins, reducing build and deployment time by approximately 20%
+- Automated IaC using Terraform & Ansible
+- Implemented reusable Infrastructure as Code using Terraform and Ansible for AWS infrastructure and
+Kubernetes environments
+- Managed Terraform remote state using Amazon S3 and DynamoDB, providing centralized state storage
+and locking for infrastructure workflows
+- Managed AWS infrastructure including VPC, IAM, Application Load Balancer, Route 53, and related
+networking components for production workloads
+- Containerized microservices using Docker and supported Kubernetes-based application deployments for
+5 development teams
+- Supported production incident resolution, Git branching strategies, webhook configuration, and cloud
+cost optimization initiatives
+- Implemented Prometheus and Grafana monitoring with custom metrics to improve infrastructure and
+application observability
+- Integrated security and policy tools including Checkov, Prowler, Terrascan, and Trend Micro into infrastructure workflows
 
-### **Teaching Assistant – Coding Ninjas** *(Jun 2022 – Dec 2022)*  
-- Conducted doubt sessions, debugged code, and guided students in assignments & projects  
 
 ---
 
