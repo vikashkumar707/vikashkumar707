@@ -21,7 +21,7 @@ Currently pursuing my **Master’s in High Performance Computing & Quantum Compu
 
 ## 📌 Professional Experience
 
-### **DevOps Engineer – Infineon Technologies** *(Jan 2025 – Present)*  
+### **DevOps Engineer – Infineon Technologies** *(April 2026 – Present)*  
 - Optimized CI/CD and engineering workflows to improve deployment efficiency, system-level testing, and
 platform reliability 
 - Designed and maintained GitLab CI/CD and release-management workflows supporting engineering software development and delivery
